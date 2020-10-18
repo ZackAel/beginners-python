@@ -132,7 +132,17 @@ On top of any support the WDSS can offer, there are many open-source resources f
 
 This course was written and initially taught by [Tim Hargreaves](https://www.linkedin.com/in/tim-hargreaves/). 
 
-For general enquires, reach out to hello@warwickdatascience.com.
+The current course directory is [Kasia Kobalczyk](https://www.linkedin.com/in/katarzyna-kobalczyk/). 
+
+Our current subject ambassadors are:
+
+- Biochemistry: [Ron Cvek](https://www.linkedin.com/in/ronaldcvek/)
+- Finance/Economics: [Patricio Hernandez](https://www.linkedin.com/in/patriciohdzs/)
+- Physcis/Engineering: [Maclain O'Meara](https://www.linkedin.com/in/maclain-o-meara-63a954197/)
+- Politics/Social Sciences: [Kasia Kobalczyk](https://www.linkedin.com/in/katarzyna-kobalczyk/) (temporary cover)
+- Mathematics/Statisics: [Patrick Fahy](https://www.linkedin.com/in/patrick-fahy-686689174/)
+
+For general enquires, reach out to teaching@wdss.io.
 
 ### Socials
 
