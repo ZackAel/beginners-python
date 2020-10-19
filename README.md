@@ -40,16 +40,23 @@ Each session is contained in its own folder and includes the Powerpoint presenta
 
 Our material is all ready to go and we will add links for each session at the beginning of the week.
 
+### Videos
+* Session One [Video](https://youtu.be/ENQtg75jf9o)
+
 ### Presentations
 
-
+* Session One [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_one/session_one_presentation.pptx?raw=true)
 
 ### Templates
 
-
+* Session One [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_filled_template.ipynb)
 
 ### Homework
 
+* Session One [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_solutions.ipynb)
+
+### Subject-specific exercises
+* Session One [Notebooks](http://warwickdatascience.github.io/beginners-python/session_one/session_one_subject_questions)
 
 ## Session Summaries
 
