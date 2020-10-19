@@ -145,9 +145,9 @@ Our current subject ambassadors are:
 
 - Biochemistry: [Ron Cvek](https://www.linkedin.com/in/ronaldcvek/)
 - Finance/Economics: [Patricio Hernandez](https://www.linkedin.com/in/patriciohdzs/)
-- Physcis/Engineering: [Maclain O'Meara](https://www.linkedin.com/in/maclain-o-meara-63a954197/)
-- Politics/Social Sciences: [Kasia Kobalczyk](https://www.linkedin.com/in/katarzyna-kobalczyk/) (temporary cover)
 - Mathematics/Statisics: [Patrick Fahy](https://www.linkedin.com/in/patrick-fahy-686689174/)
+- Physics/Engineering: [Maclain O'Meara](https://www.linkedin.com/in/maclain-o-meara-63a954197/)
+- Politics/Social Sciences: [Kasia Kobalczyk](https://www.linkedin.com/in/katarzyna-kobalczyk/) (temporary cover)
 
 For general enquires, reach out to teaching@wdss.io.
 
