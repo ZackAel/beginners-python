@@ -120,6 +120,15 @@ Our material is all ready to go and we will add links for each session at the be
 
 In Python, there is often more than one way to do things. A particular style, known as Pythonic programming, is often favoured for its elegance and efficiency. On top of the base content, you are encouraged to have a look at the topics below which introduce some extra knowlege and techniques you can apply in your code.
 
+### Session 1
+
+The extra [Notebook](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_additional_content.ipynb) for session one covers:
+* `sep`, `end`, special characters for printing
+* `__repr__` vs `__str__`
+* Modular arithmetic
+* Math
+* Inplace operators
+* Multiple assignment (AKA tuple unpacking)
 
 ## Getting Help
 
