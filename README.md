@@ -1,7 +1,5 @@
 # Beginner's Python
 
-[![Powered by DigitalOcean](DO_badge.png)](https://www.digitalocean.com/)
-
 _Session material and solutions for the Beginner's Python course taught by WDSS_
 
 Spotted a mistake, dead link, or have suggestions for improvements? Report these [here](https://github.com/warwickdatascience/beginners-python/issues/new)
@@ -42,16 +40,30 @@ Each session is contained in its own folder and includes the Powerpoint presenta
 
 Our material is all ready to go and we will add links for each session at the beginning of the week.
 
+### Videos
+
+* Session One [Video](https://youtu.be/ENQtg75jf9o)
+* Session Two [Video](https://youtu.be/xEsfti4bf-I)
+
 ### Presentations
 
-
+* Session One [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_one/session_one_presentation.pptx?raw=true)
+* Session Two [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_two/session_two_presentation.pptx?raw=true)
 
 ### Templates
 
-
+* Session One [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_filled_template.ipynb)
+* Session Two [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_filled_template.ipynb)
 
 ### Homework
 
+* Session One [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_solutions.ipynb)
+* Session Two [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_solutions.ipynb)
+
+### Subject-specific Questions
+
+* Session One [Notebooks](http://warwickdatascience.github.io/beginners-python/session_one/session_one_subject_questions)
+* Session Two [Notebooks](http://warwickdatascience.github.io/beginners-python/session_two/session_two_subject_questions)
 
 ## Session Summaries
 
@@ -115,6 +127,27 @@ Our material is all ready to go and we will add links for each session at the be
 
 In Python, there is often more than one way to do things. A particular style, known as Pythonic programming, is often favoured for its elegance and efficiency. On top of the base content, you are encouraged to have a look at the topics below which introduce some extra knowlege and techniques you can apply in your code.
 
+### Session 1
+
+[Additional notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_additional_content.ipynb)	
+
+* `sep`, `end`, special characters for printing	
+* `__repr__` vs `__str__`	
+* Modular arithmetic	
+* Math	
+* Inplace operators	
+* Multiple assignment (AKA tuple unpacking)	
+
+### Session 2	
+
+[Additional notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_additional_content.ipynb)	
+
+* `None`	
+* Type promotion for arithmetic	
+* f-strings	
+* Arithmetic on lists	
+* String methods (case, `.replace()`, `.strip()`)	
+* Quotes
 
 ## Getting Help
 
@@ -134,7 +167,17 @@ On top of any support the WDSS can offer, there are many open-source resources f
 
 This course was written and initially taught by [Tim Hargreaves](https://www.linkedin.com/in/tim-hargreaves/). 
 
-For general enquires, reach out to hello@warwickdatascience.com.
+The current course directory is [Kasia Kobalczyk](https://www.linkedin.com/in/katarzyna-kobalczyk/). 
+
+Our current subject ambassadors are:
+
+- Biochemistry: [Ron Cvek](https://www.linkedin.com/in/ronaldcvek/)
+- Finance/Economics: [Patricio Hernandez](https://www.linkedin.com/in/patriciohdzs/)
+- Mathematics/Statisics: [Patrick Fahy](https://www.linkedin.com/in/patrick-fahy-686689174/)
+- Physics/Engineering: [Maclain O'Meara](https://www.linkedin.com/in/maclain-o-meara-63a954197/)
+- Politics/Social Sciences: [Kasia Kobalczyk](https://www.linkedin.com/in/katarzyna-kobalczyk/) (temporary cover)
+
+For general enquires, reach out to teaching@wdss.io.
 
 ### Socials
 
