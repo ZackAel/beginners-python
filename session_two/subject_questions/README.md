@@ -15,7 +15,7 @@
 - [Answers](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_two/subject_questions/session_two_finecon_answers.ipynb)
 
 
-## Mathematics/Statistics
+## Mathematics/Statistics (*)
 
 - [Questions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_two/subject_questions/mathstat_two_questions.ipynb)
 - [Answers](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_two/subject_questions/mathstat_two_answers.ipynb)
