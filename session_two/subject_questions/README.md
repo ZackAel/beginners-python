@@ -1,7 +1,6 @@
 # Session Two Subject Questions
 
-**Note:** Questions marked with (*)s are of a slightly greater difficulty. Questions with (**)s are designed to push your Python ability but will provide greater guidance and templating to help get you there.
-
+**Note:** Questions marked with (\*)s are of a slightly greater difficulty. Questions with (\*\*)s are designed to push your Python ability but will provide greater guidance and templating to help get you there.
 
 ## Biochemistry
 
@@ -15,7 +14,7 @@
 - [Answers](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_two/subject_questions/session_two_finecon_answers.ipynb)
 
 
-## Mathematics/Statistics (*)
+## Mathematics/Statistics
 
 - [Questions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_two/subject_questions/mathstat_two_questions.ipynb)
 - [Answers](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_two/subject_questions/mathstat_two_answers.ipynb)
