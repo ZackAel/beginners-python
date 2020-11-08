@@ -15,8 +15,8 @@
 
 ## Mathematics/Statistics
 
-- [Questions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_four/subject_questions/mathstat_three+four_questions.ipynb)
-- [Answers](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_four/subject_questions/mathstat_three+four_answers.ipynb)
+- [Questions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_four/subject_questions/mathstat_three_four_questions.ipynb)
+- [Answers](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_four/subject_questions/mathstat_three_four_answers.ipynb)
 
 ## Politics/Social Sciences
 
