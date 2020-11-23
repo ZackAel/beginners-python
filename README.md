@@ -2,7 +2,7 @@
 
 _Session material and solutions for the Beginner's Python course taught by WDSS_
 
-Spotted a mistake, dead link, or have suggestions for improvements? Report these [here](https://github.com/warwickdatascience/beginners-python/issues/new)
+Spotted a mistake, dead link, or have suggestions for improvements? Report these [here](https://github.com/warwickdatasciencesociety/beginners-python/issues/new)
 
 Navigation:
 
@@ -50,34 +50,34 @@ Our material is all ready to go and we will add links for each session at the be
 
 ### Presentations
 
-* Session One [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_one/session_one_presentation.pptx?raw=true)
-* Session Two [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_two/session_two_presentation.pptx?raw=true)
-* Session Three [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_three/session_three_presentation.pptx?raw=true)
-* Session Four [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_four/session_four_presentation.pptx?raw=true)
-* **Session Five** [Presentation](https://github.com/warwickdatascience/beginners-python/blob/master/session_five/session_five_presentation.pptx?raw=true)
+* Session One [Presentation](https://github.com/warwickdatasciencesociety/beginners-python/blob/master/session_one/session_one_presentation.pptx?raw=true)
+* Session Two [Presentation](https://github.com/warwickdatasciencesociety/beginners-python/blob/master/session_two/session_two_presentation.pptx?raw=true)
+* Session Three [Presentation](https://github.com/warwickdatasciencesociety/beginners-python/blob/master/session_three/session_three_presentation.pptx?raw=true)
+* Session Four [Presentation](https://github.com/warwickdatasciencesociety/beginners-python/blob/master/session_four/session_four_presentation.pptx?raw=true)
+* **Session Five** [Presentation](https://github.com/warwickdatasciencesociety/beginners-python/blob/master/session_five/session_five_presentation.pptx?raw=true)
 
 ### Templates
 
-* Session One [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_filled_template.ipynb)
-* Session Two [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_filled_template.ipynb)
-* Session Three [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_filled_template.ipynb)
-* Session Four [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_filled_template.ipynb)
-* Session Five [Blank Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_filled_template.ipynb)
+* Session One [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_one/session_one_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_one/session_one_filled_template.ipynb)
+* Session Two [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_two/session_two_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_two/session_two_filled_template.ipynb)
+* Session Three [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_three/session_three_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_three/session_three_filled_template.ipynb)
+* Session Four [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_four/session_four_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_four/session_four_filled_template.ipynb)
+* Session Five [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_five/session_five_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_five/session_five_filled_template.ipynb)
 
 
 ### Homework
 
-* Session One [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_solutions.ipynb)
-* Session Two [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_solutions.ipynb)
-* Session Three [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_solutions.ipynb)
-* Session Four [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_solutions.ipynb)
-* **Session Five** [Exercises](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_solutions.ipynb)
+* Session One [Exercises](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_one/session_one_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_one/session_one_solutions.ipynb)
+* Session Two [Exercises](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_two/session_two_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_two/session_two_solutions.ipynb)
+* Session Three [Exercises](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_three/session_three_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_three/session_three_solutions.ipynb)
+* Session Four [Exercises](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_four/session_four_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_four/session_four_solutions.ipynb)
+* **Session Five** [Exercises](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_five/session_five_exercises.ipynb) and [Solutions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_five/session_five_solutions.ipynb)
 
 ### Subject-specific Questions
 
-* Session One [Notebooks](http://warwickdatascience.github.io/beginners-python/session_one/session_one_subject_questions)
-* Session Two [Notebooks](http://warwickdatascience.github.io/beginners-python/session_two/subject_questions)
-* **Session Three and Four** [Notebooks](https://warwickdatascience.github.io/beginners-python/session_four/subject_questions/)
+* Session One [Notebooks](http://warwickdatasciencesociety.github.io/beginners-python/session_one/session_one_subject_questions)
+* Session Two [Notebooks](http://warwickdatasciencesociety.github.io/beginners-python/session_two/subject_questions)
+* **Session Three and Four** [Notebooks](https://warwickdatasciencesociety.github.io/beginners-python/session_four/subject_questions/)
 
 ## Session Summaries
 
@@ -143,7 +143,7 @@ In Python, there is often more than one way to do things. A particular style, kn
 
 ### Session 1
 
-[Additional notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_one/session_one_additional_content.ipynb)	
+[Additional notes in notebook form](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_one/session_one_additional_content.ipynb)	
 
 * `sep`, `end`, special characters for printing	
 * `__repr__` vs `__str__`	
@@ -154,7 +154,7 @@ In Python, there is often more than one way to do things. A particular style, kn
 
 ### Session 2	
 
-[Additional notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_two/session_two_additional_content.ipynb)	
+[Additional notes in notebook form](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_two/session_two_additional_content.ipynb)	
 
 * `None`	
 * Type promotion for arithmetic	
@@ -165,7 +165,7 @@ In Python, there is often more than one way to do things. A particular style, kn
 
 ### Session 3	
 
-[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_three/session_three_additional_content.ipynb)	
+[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_three/session_three_additional_content.ipynb)	
 
 * Two-sided comparisons	
 * Truthiness	
