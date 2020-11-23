@@ -62,7 +62,7 @@ Our material is all ready to go and we will add links for each session at the be
 * Session Two [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_two/session_two_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_two/session_two_filled_template.ipynb)
 * Session Three [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_three/session_three_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_three/session_three_filled_template.ipynb)
 * Session Four [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_four/session_four_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_four/session_four_filled_template.ipynb)
-* Session Five [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_five/session_five_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_five/session_five_filled_template.ipynb)
+* **Session Five** [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_five/session_five_blank_template.ipynb) and [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_five/session_five_filled_template.ipynb)
 
 
 ### Homework
@@ -75,8 +75,8 @@ Our material is all ready to go and we will add links for each session at the be
 
 ### Subject-specific Questions
 
-* Session One [Notebooks](http://warwickdatasciencesociety.github.io/beginners-python/session_one/session_one_subject_questions)
-* Session Two [Notebooks](http://warwickdatasciencesociety.github.io/beginners-python/session_two/subject_questions)
+* Session One [Notebooks](https://warwickdatasciencesociety.github.io/beginners-python/session_one/session_one_subject_questions/)
+* Session Two [Notebooks](https://warwickdatasciencesociety.github.io/beginners-python/session_two/subject_questions/)
 * **Session Three and Four** [Notebooks](https://warwickdatasciencesociety.github.io/beginners-python/session_four/subject_questions/)
 
 ## Session Summaries
