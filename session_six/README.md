@@ -16,12 +16,12 @@
 ## Mathematics/Statistics
 
 - [Questions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/subject-questions-dev/session_six/subject_questions/mathstat_five_six_answers.ipynb)
-- [Answers](https://colab.research.google.com/github/warwickdatasciencesociety/bbeginners-python/blob/subject-questions-dev/session_six/subject_questions/mathstat_five_six_answers.ipynb)
+- [Answers](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/subject-questions-dev/session_six/subject_questions/mathstat_five_six_answers.ipynb)
 
 ## Politics/Social Sciences
 
-- [Questions](https://colab.research.google.com/github/warwickdatasciencesociety/eginners-python/blob/subject-questions-dev/session_six/subject_questions/politics_session_5_6_questions.ipynb)
-- [Answers](https://colab.research.google.com/github/warwickdatasciencesociety/eginners-python/blob/subject-questions-dev/session_six/subject_questions/politics_session_5_6_solutions.ipynb)
+- [Questions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/subject-questions-dev/session_six/subject_questions/politics_session_5_6_questions.ipynb)
+- [Answers](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/subject-questions-dev/session_six/subject_questions/politics_session_5_6_solutions.ipynb)
 
 ## Physics/Engineering
 
