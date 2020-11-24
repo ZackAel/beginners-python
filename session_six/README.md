@@ -1,30 +1,30 @@
-# Session Three and Four Subject Questions
+# Session Five and Six Subject Questions
 
 
 ## Biochemistry
 
-- [Questions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_four/subject_questions/session_four_biochem_questions.ipynb)
-- [Answers](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_four/subject_questions/session_four_biochem_answers.ipynb)
+- [Questions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/subject-questions-dev/session_six/subject_questions/session_5and6_biochem_questions.ipynb)
+- [Answers](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/subject-questions-dev/session_six/subject_questions/session_5and6_biochem_answers.ipynb)
 
 
 ## Finance/Economics
 
-- [Questions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_four/subject_questions/session_three&four_finecon_exercises.ipynb)
-- [Answers](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_four/subject_questions/session_three&four_finecon_answers.ipynb)
+- [Questions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/subject-questions-dev/session_six/subject_questions/session_five%26six_finecon_questions.ipynb)
+- [Answers](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/subject-questions-dev/session_six/subject_questions/session_five%26six_finecon_answers.ipynb)
 
 
 ## Mathematics/Statistics
 
-- [Questions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_four/subject_questions/mathstat_three_four_questions.ipynb)
-- [Answers](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_four/subject_questions/mathstat_three_four_answers.ipynb)
+- [Questions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/subject-questions-dev/session_six/subject_questions/mathstat_five_six_answers.ipynb)
+- [Answers](https://colab.research.google.com/github/warwickdatasciencesociety/bbeginners-python/blob/subject-questions-dev/session_six/subject_questions/mathstat_five_six_answers.ipynb)
 
 ## Politics/Social Sciences
 
-- [Questions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_four/subject_questions/session_three_four_politics_questions.ipynb)
-- [Answers](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_four/subject_questions/session_three_four_politics_answers.ipynb)
+- [Questions](https://colab.research.google.com/github/warwickdatasciencesociety/eginners-python/blob/subject-questions-dev/session_six/subject_questions/politics_session_5_6_questions.ipynb)
+- [Answers](https://colab.research.google.com/github/warwickdatasciencesociety/eginners-python/blob/subject-questions-dev/session_six/subject_questions/politics_session_5_6_solutions.ipynb)
 
 ## Physics/Engineering
 
-- [Questions](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_four/subject_questions/PhysEng_three_four_questions.ipynb)
-- [Answers](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/subject-questions-dev/session_four/subject_questions/PhysEng_three_four_answers.ipynb)
+- [Questions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/subject-questions-dev/session_six/subject_questions/PhysEng_Sessions_5_6_Questions.ipynb)
+- [Answers](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/subject-questions-dev/session_six/subject_questions/PhysEng_Sessions_5_6_answers.ipynb)
 
