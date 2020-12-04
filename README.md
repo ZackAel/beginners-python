@@ -174,7 +174,7 @@ In Python, there is often more than one way to do things. A particular style, kn
 
 ### Session 3	
 
-[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_three/session_three_additional_content.ipynb)	
+[Additional notes in notebook form](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_three/session_three_additional_content.ipynb)	
 
 * Two-sided comparisons	
 * Truthiness	
@@ -184,7 +184,7 @@ In Python, there is often more than one way to do things. A particular style, kn
 * String comparisons	
 
 ### Session 4
-[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_additional_content.ipynb)
+[Additional notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_additional_content.ipynb)
 * Removing all matches
 * String indexing and slices
 * Throwaways
@@ -194,7 +194,7 @@ In Python, there is often more than one way to do things. A particular style, kn
 * Stepped slices
 
 ### Session 5
-[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_additional_content.ipynb)
+[Additional notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_additional_content.ipynb)
 * Looping through a string
 * Else
 * Ignoring assignment
@@ -203,7 +203,7 @@ In Python, there is often more than one way to do things. A particular style, kn
 * Zipping
 
 ### Session 6
-[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_six/session_six_additional_content.ipynb)
+[Additional notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_six/session_six_additional_content.ipynb)
 * Using `None`
 * Passing by reference/value
 * Args and kwargs
@@ -214,7 +214,7 @@ In Python, there is often more than one way to do things. A particular style, kn
 
  ### Session 7
 
- [Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_additional_content.ipynb)
+[Additional notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_additional_content.ipynb)
 
  * Sets
  * Dictionary comprehension
