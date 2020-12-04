@@ -183,6 +183,46 @@ In Python, there is often more than one way to do things. A particular style, kn
 * Validation methods	
 * String comparisons	
 
+### Session 4
+[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_four/session_four_additional_content.ipynb)
+* Removing all matches
+* String indexing and slices
+* Throwaways
+* Copying lists
+* Splatting
+* Extend
+* Stepped slices
+
+### Session 5
+[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_five/session_five_additional_content.ipynb)
+* Looping through a string
+* Else
+* Ignoring assignment
+* List comprehension
+* Matrices
+* Zipping
+
+### Session 6
+[Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_six/session_six_additional_content.ipynb)
+* Using `None`
+* Passing by reference/value
+* Args and kwargs
+* Lambda Functions
+* Functional programming
+* Accessing global variables
+* Memoisation
+
+ ### Session 7
+
+ [Brief notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_additional_content.ipynb)
+
+ * Sets
+ * Dictionary comprehension
+ * Positional and named arguments
+
+### Session 8 
+* No additional content for session 8 
+
 ## Getting Help
 
 If you are taking this course through WDSS, your first port of call for any issues is your mentor. They will be able to handle the majority of issues and can elevate any particulary troublesome or important ones.
