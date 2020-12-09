@@ -218,9 +218,7 @@ In Python, there is often more than one way to do things. A particular style, kn
 * Memoisation
 
  ### Session 7
-
 [Additional notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_additional_content.ipynb)
-
  * Sets
  * Dictionary comprehension
  * Positional and named arguments
