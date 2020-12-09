@@ -49,7 +49,7 @@ Our material is all ready to go and we will add links for each session at the be
 * Session Five [Video](https://youtu.be/m96WXTszQBg)
 * Session Six [Video](https://youtu.be/A7h1ZGwxQfw)
 * Session Seven [Video](https://youtu.be/8udnpHnqtkI)
-* Session Eight [Video](https://youtu.be/8udnpHnqtkI)
+* Session Eight [Video](https://youtu.be/pwNrJvP8_a4)
 
 ### Presentations
 
