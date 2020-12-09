@@ -91,7 +91,7 @@ Our material is all ready to go and we will add links for each session at the be
 * Session Two [Notebooks](https://warwickdatasciencesociety.github.io/beginners-python/session_two/subject_questions/)
 * Session Three and Four [Notebooks](https://warwickdatasciencesociety.github.io/beginners-python/session_four/subject_questions/)
 * Session Five and Six [Notebooks](https://warwickdatasciencesociety.github.io/beginners-python/session_six/subject_questions/)
-* Session Five and Six [Notebooks](https://warwickdatasciencesociety.github.io/beginners-python/session_eight/subject_questions/)
+* Session Seven and Eight [Notebooks](https://warwickdatasciencesociety.github.io/beginners-python/session_eight/subject_questions/)
 
 ## Session Summaries
 
