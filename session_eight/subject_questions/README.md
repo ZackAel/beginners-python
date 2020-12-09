@@ -9,6 +9,6 @@ The remaining subject notebooks added in due course.
 
 ## Mathematics/Statistics
 
-- [Questions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/subject-questions-dev/session_eight/subject_questions/mathstat_seven_eight_questions.ipynb
+- [Questions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/subject-questions-dev/session_eight/subject_questions/mathstat_seven_eight_questions.ipynb)
 - [Answers](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/subject-questions-dev/session_eight/subject_questions/mathstat_seven_eight_answers.ipynb)
 
