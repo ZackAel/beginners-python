@@ -49,7 +49,7 @@ Our material is all ready to go and we will add links for each session at the be
 * Session Five [Video](https://youtu.be/m96WXTszQBg)
 * Session Six [Video](https://youtu.be/A7h1ZGwxQfw)
 * Session Seven [Video](https://youtu.be/8udnpHnqtkI)
-* Session Eight [Video](https://youtu.be/8udnpHnqtkI)
+* Session Eight [Video](https://youtu.be/pwNrJvP8_a4)
 
 ### Presentations
 
@@ -218,9 +218,7 @@ In Python, there is often more than one way to do things. A particular style, kn
 * Memoisation
 
  ### Session 7
-
 [Additional notes in notebook form](https://colab.research.google.com/github/warwickdatascience/beginners-python/blob/master/session_seven/session_seven_additional_content.ipynb)
-
  * Sets
  * Dictionary comprehension
  * Positional and named arguments
