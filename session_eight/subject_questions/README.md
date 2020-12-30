@@ -12,3 +12,10 @@ The remaining subject notebooks added in due course.
 - [Questions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/subject-questions-dev/session_eight/subject_questions/mathstat_seven_eight_questions.ipynb)
 - [Answers](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/subject-questions-dev/session_eight/subject_questions/mathstat_seven_eight_answers.ipynb)
 
+
+## Finance/Economics
+
+- [Questions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/subject-questions-dev/session_eight/subject_questions/session_seven&eight_finecon_exercises.ipynb)
+- [Answers](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/subject-questions-dev/session_eight/subject_questions/session_seven&eight_finecon_solutions.ipynb)
+- [Files](https://github.com/warwickdatasciencesociety/beginners-python/tree/subject-questions-dev/session_eight/subject_questions/finecon_resources)
+
