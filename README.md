@@ -167,7 +167,7 @@ Our current subject ambassadors are:
 - Physics/Engineering: [Maclain O'Meara](https://www.linkedin.com/in/maclain-o-meara-63a954197/)
 - Politics/Social Sciences: [Kasia Kobalczyk](https://www.linkedin.com/in/katarzyna-kobalczyk/) (temporary cover)
 
-For general enquires, reach out to mailto:education@wdss.io
+For general enquires, reach out to education@wdss.io
 
 ### Socials
 
