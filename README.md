@@ -1,8 +1,6 @@
-# Beginner's Python
+# Welcome to The Course
 
-_Session material and solutions for the Beginner's Python course taught by WDSS_
-
-Spotted a mistake, dead link, or have suggestions for improvements? Report these [here](https://github.com/warwickdatasciencesociety/beginners-python/issues/new)
+If you are viewing this page on GitHub, you may want to switch to the [standalone website](https://education.wdss.io/beginners-pythos) for a better experience.
 
 Navigation:
 
