@@ -1,4 +1,4 @@
-# Welcome to The Course
+# Welcome to Beginner's Python
 
 If you are viewing this page on GitHub, you may want to switch to the [standalone website](https://education.wdss.io/beginners-python) for a better experience.
 

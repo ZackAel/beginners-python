@@ -1,4 +1,4 @@
-# Session One Material
+# Beginne's Python: Session One
 
 ## Session Content
 
