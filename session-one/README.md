@@ -24,17 +24,17 @@
 
 ## Session Resources
 
-- [Presentation](https://github.com/warwickdatasciencesociety/beginners-python/blob/master/session_one/session_one_presentation.pptx?raw=true)
-- [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_one/session_one_blank_template.ipynb)
-- [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_one/session_one_filled_template.ipynb)
+- [Presentation](https://github.com/warwickdatasciencesociety/beginners-python/blob/master/session-one/session_one_presentation.pptx?raw=true)
+- [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-one/session_one_blank_template.ipynb)
+- [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-one/session_one_filled_template.ipynb)
 
 ## Session Homework
 
-- [Exercises](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_one/session_one_exercises.ipynb)
-- [Solutions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_one/session_one_solutions.ipynb)
+- [Exercises](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-one/session_one_exercises.ipynb)
+- [Solutions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-one/session_one_solutions.ipynb)
 
 ## Additional Notes
 
-- [Subject-specific questions](https://warwickdatasciencesociety.github.io/beginners-python/session_one/session_one_subject_questions/)
-- [Additional notes in notebook form](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session_one/session_one_additional_content.ipynb)
+- [Subject-specific questions](https://warwickdatasciencesociety.github.io/beginners-python/session-one/session_one_subject_questions/)
+- [Additional notes in notebook form](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-one/session_one_additional_content.ipynb)
 
