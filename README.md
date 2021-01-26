@@ -69,7 +69,7 @@ Every teaching session also has a homework notebook. These must be completed in 
 
 Some of the teaching sessions include a collection of subject-specific question notebooks. These are additional problem sheets offering project-based questions on the five main subject ventures of WDSS (biochemistry, economics/finance, maths/stats, physics/engineering, politics/social sciences). These are not at all needed to complete the course, but instead offer additional material to push you and demonstrate how the techniques you are learning can be applied to domain-specific problems.
 
-### Additional Notes
+#### Additional Notes
 
 Finally, each session contains a notebooks providing additional notes. These expand on the teachings of the standard content, introducing a style of coding known as Pythonic coding. These notes show how the same aims can be achieved using more Pythonic notation. Knowledge of such material is vital for impressing during coding interviews/assessments and working as part of a Python programming team. If a participant studies all additional content and completes all homeworks using Pythonic programming techniques, we offer a special variant of the completion certificate if requested.
 
