@@ -33,7 +33,7 @@
 - [Exercises](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-one/session_one_exercises.ipynb)
 - [Solutions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-one/session_one_solutions.ipynb)
 
-## Additional Contents
+## Additional Content
 
 - [Subject-specific questions](https://warwickdatasciencesociety.github.io/beginners-python/session-one/session_one_subject_questions/)
 - [Additional notes in notebook form](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-one/session_one_additional_content.ipynb)
