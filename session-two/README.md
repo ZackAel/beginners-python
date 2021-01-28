@@ -33,6 +33,6 @@
 
 ## Additional Content
 
-- [Subject-specific questions](https://warwickdatasciencesociety.github.io/beginners-python/session-two/session_two_subject_questions/)
+- [Subject-specific questions](https://warwickdatasciencesociety.github.io/beginners-python/session-two/subject_questions/)
 - [Additional notes in notebook form](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-two/session_two_additional_content.ipynb)
 
