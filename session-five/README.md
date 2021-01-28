@@ -1,4 +1,4 @@
-# Beginner's Python: Session One
+# Beginner's Python: Session Five
 
 ## Session Content
 
@@ -24,16 +24,16 @@
 
 ## Session Resources
 
-- [Presentation](https://github.com/warwickdatasciencesociety/beginners-python/blob/master/session-five/session_five__presentation.pptx?raw=true)
-- [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-five/session_five__blank_template.ipynb)
-- [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-five/session_five__filled_template.ipynb)
+- [Presentation](https://github.com/warwickdatasciencesociety/beginners-python/blob/master/session-five/session_five_presentation.pptx?raw=true)
+- [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-five/session_five_blank_template.ipynb)
+- [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-five/session_five_filled_template.ipynb)
 
 ## Session Homework
 
-- [Exercises](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-five/session_five__exercises.ipynb)
-- [Solutions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-five/session_five__solutions.ipynb)
+- [Exercises](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-five/session_five_exercises.ipynb)
+- [Solutions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-five/session_five_solutions.ipynb)
 
 ## Additional Content
 
-- [Additional notes in notebook form](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-five/session_five__additional_content.ipynb)
+- [Additional notes in notebook form](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-five/session_five_additional_content.ipynb)
 
