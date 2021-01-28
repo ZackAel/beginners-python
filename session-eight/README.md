@@ -17,16 +17,16 @@
 
 ## Session Resources
 
-- [Presentation](https://github.com/warwickdatasciencesociety/beginners-python/blob/master/session-eight/session_eight__presentation.pptx?raw=true)
-- [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-eight/session_eight__blank_template.ipynb)
-- [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-eight/session_eight__filled_template.ipynb)
+- [Presentation](https://github.com/warwickdatasciencesociety/beginners-python/blob/master/session-eight/session_eight_presentation.pptx?raw=true)
+- [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-eight/session_eight_blank_template.ipynb)
+- [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-eight/session_eight_filled_template.ipynb)
 
 ## Session Homework
 
-- [Exercises](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-eight/session_eight__exercises.ipynb)
-- [Solutions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-eight/session_eight__solutions.ipynb)
+- [Exercises](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-eight/session_eight_exercises.ipynb)
+- [Solutions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-eight/session_eight_solutions.ipynb)
 
 ## Additional Content
 
-- [Subject-specific questions](https://warwickdatasciencesociety.github.io/beginners-python/session-eight/session_eight__subject_questions/)
+- [Subject-specific questions](https://warwickdatasciencesociety.github.io/beginners-python/session-eight/session_eight_subject_questions/)
 
