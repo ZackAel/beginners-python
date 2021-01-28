@@ -28,5 +28,5 @@
 
 ## Additional Content
 
-- [Subject-specific questions](https://warwickdatasciencesociety.github.io/beginners-python/session-eight/session_eight_subject_questions/)
+- [Subject-specific questions](https://warwickdatasciencesociety.github.io/beginners-python/session-eight/subject_questions/)
 
