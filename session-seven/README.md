@@ -1,4 +1,4 @@
-# Beginner's Python: Session One
+# Beginner's Python: Session Seven
 
 ## Session Content
 
@@ -20,14 +20,14 @@
 
 ## Session Resources
 
-- [Presentation](https://github.com/warwickdatasciencesociety/beginners-python/blob/master/session-seven/session_seven__presentation.pptx?raw=true)
-- [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-seven/session_seven__blank_template.ipynb)
-- [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-seven/session_seven__filled_template.ipynb)
+- [Presentation](https://github.com/warwickdatasciencesociety/beginners-python/blob/master/session-seven/session_seven_presentation.pptx?raw=true)
+- [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-seven/session_seven_blank_template.ipynb)
+- [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-seven/session_seven_filled_template.ipynb)
 
 ## Session Homework
 
-- [Exercises](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-seven/session_seven__exercises.ipynb)
-- [Solutions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-seven/session_seven__solutions.ipynb)
+- [Exercises](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-seven/session_seven_exercises.ipynb)
+- [Solutions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-seven/session_seven_solutions.ipynb)
 
 ## Additional Content
 
