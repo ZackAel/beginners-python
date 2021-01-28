@@ -1,4 +1,4 @@
-# Beginner's Python: Session One
+# Beginner's Python: Session Six
 
 ## Session Content
 
@@ -35,6 +35,6 @@
 
 ## Additional Content
 
-- [Subject-specific questions](https://warwickdatasciencesociety.github.io/beginners-python/session-six/session_six_subject_questions/)
+- [Subject-specific questions](https://warwickdatasciencesociety.github.io/beginners-python/session-six/subject_questions/)
 - [Additional notes in notebook form](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-six/session_six_additional_content.ipynb)
 
