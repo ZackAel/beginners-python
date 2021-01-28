@@ -35,6 +35,5 @@
 
 ## Additional Content
 
-- [Subject-specific questions](https://warwickdatasciencesociety.github.io/beginners-python/session-five/session_five__subject_questions/)
 - [Additional notes in notebook form](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-five/session_five__additional_content.ipynb)
 
