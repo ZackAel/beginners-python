@@ -1,4 +1,4 @@
-# Beginner's Python: Session Two
+# Beginner's Python: Session Three
 
 ## Session Content
 
