@@ -78,6 +78,7 @@ Finally, each session contains a notebooks providing additional notes. These exp
 Here you can find the resources for each session. Sessions will be added as the course progresses.
 
 * [Session One](session-one)
+* [Session Two](session-two)
 
 ### Further Reading
 
