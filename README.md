@@ -2,7 +2,7 @@
 
 ### Setup Guide
 
-#### Using Google Colab (Recommended)
+#### Using Google Colab
 
 To make learing Python as simple as possible, we have centred our course around the use of Google Colab, a free, interactive cloud environment for Python programming. You can get setup with Colab by visiting [this link](https://colab.research.google.com/) or searching for Google Colab (using Google Chrome, as this has the best compatibility, unsurprisingly). Sign up using a Google account and get started by going to `File > New Python Notebook`. 
 
