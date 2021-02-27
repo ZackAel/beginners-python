@@ -12,7 +12,7 @@ All of the notebooks used during the workshops have links to open them in Colab.
 During the session we will go through the fundamental aspects of programming in Python. Below you can find the notebooks which we will use and some extra exercises for practice and some fun!:
 - [Teaching](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/intro_to_python_workshops/teaching.ipynb)
 - [Exercises](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/intro_to_python_workshops/exercises.ipynb)
-- - [Exercises](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/intro_to_python_workshops/solved_exercises.ipynb)
+- [Exercises](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/intro_to_python_workshops/solved_exercises.ipynb)
 - [Mini Games Blank](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/intro_to_python_workshops/mini_games_blank.ipynb)
 - [Mini Games Solved](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/intro_to_python_workshops/mini_games_filled.ipynb)
 
