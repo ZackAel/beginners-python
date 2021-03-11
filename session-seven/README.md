@@ -23,6 +23,7 @@
 - [Presentation](https://github.com/warwickdatasciencesociety/beginners-python/blob/master/session-seven/session_seven_presentation.pptx?raw=true)
 - [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-seven/session_seven_blank_template.ipynb)
 - [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-seven/session_seven_filled_template.ipynb)
+- [Practical Example](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-seven/session_seven_practical_example.ipynb)
 
 ## Session Homework
 
