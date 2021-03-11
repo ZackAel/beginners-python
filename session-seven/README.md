@@ -31,5 +31,5 @@
 
 ## Additional Content
 
-- [Additional notes in notebook form](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-seven/session_seven__additional_content.ipynb)
+- [Additional notes in notebook form](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-seven/session_seven_additional_content.ipynb)
 
