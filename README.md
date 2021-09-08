@@ -106,7 +106,7 @@ You can find a list of answered FAQs [here](faqs).
 
 If you are taking this course through WDSS, your first port of call for any issues is your mentor. They will be able to handle the majority of issues and can elevate any particulary troublesome or important ones.
 
-If you are self-teaching, feel free to reach out to Tim Hargreaves (the content author) on [LinkedIn](https://www.linkedin.com/in/tim-hargreaves/) or Kasia Kobalczyk (the course coordinator) on [LinkedIn](https://www.linkedin.com/in/katarzyna-kobalczyk/)
+If you are self-teaching, feel free to reach out to Tim Hargreaves (the content author) on [LinkedIn](https://www.linkedin.com/in/tim-hargreaves/) or Dodzia Daraz (the course coordinator) on [LinkedIn](https://www.linkedin.com/in/dominika-daraż-b13335162/)
 
 ## Contact
 
@@ -115,11 +115,12 @@ This course was written and initially taught by [Tim Hargreaves](https://www.lin
 The current course coordinator is [Kasia Kobalczyk](https://www.linkedin.com/in/katarzyna-kobalczyk/). 
 
 Our current subject ambassadors are:
-- Biochemistry: [Ron Cvek](https://www.linkedin.com/in/ronaldcvek/)
-- Finance/Economics: [Patricio Hernandez](https://www.linkedin.com/in/patriciohdzs/)
-- Mathematics/Statisics: [Patrick Fahy](https://www.linkedin.com/in/patrick-fahy-686689174/)
-- Physics/Engineering: [Maclain O'Meara](https://www.linkedin.com/in/maclain-o-meara-63a954197/)
-- Politics/Social Sciences: [Kasia Kobalczyk](https://www.linkedin.com/in/katarzyna-kobalczyk/) (temporary cover)
+- Biochemistry: [Omar Abdul-Aziz]()
+- Finance/Economics: [Szymon Litwin](https://www.linkedin.com/in/szymon-litwin-38a9021bb/)
+- Mathematics/Statisics: [Amr Abdelmotteleb](https://www.linkedin.com/in/amr-abdelmotteleb-3574691ba/)
+- Physics/Engineering: TBD
+- Politics/Social Sciences: [Tasneem Amijee](https://www.linkedin.com/in/tasneem-amijee-5147a9a1/)
+- Linguistics: [Holly Taylor](https://www.linkedin.com/in/holly-taylor-988514211/)
 
 For general enquires, reach out to [education@wdss.io](mailto:education@wdss.io).
 
