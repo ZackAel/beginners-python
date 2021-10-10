@@ -112,7 +112,7 @@ If you are self-teaching, feel free to reach out to Tim Hargreaves (the content 
 
 This course was written and initially taught by [Tim Hargreaves](https://www.linkedin.com/in/tim-hargreaves/). 
 
-The current course coordinator is [Kasia Kobalczyk](https://www.linkedin.com/in/katarzyna-kobalczyk/). 
+The current course coordinator is [Dodzia Daraz](https://www.linkedin.com/in/dominika-daraż-b13335162/). 
 
 Our current subject ambassadors are:
 - Biochemistry: [Omar Abdul-Aziz]()
