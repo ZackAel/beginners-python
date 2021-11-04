@@ -118,9 +118,8 @@ Our current subject ambassadors are:
 - Biochemistry: [Omar Abdul-Aziz]()
 - Finance/Economics: [Szymon Litwin](https://www.linkedin.com/in/szymon-litwin-38a9021bb/)
 - Mathematics/Statisics: [Amr Abdelmotteleb](https://www.linkedin.com/in/amr-abdelmotteleb-3574691ba/)
-- Physics/Engineering: TBD
+- Physics/Engineering: [Aidan Mullins](https://www.linkedin.com/in/aidan-mullins-42650a1a3/?originalSubdomain=uk)
 - Politics/Social Sciences: [Tasneem Amijee](https://www.linkedin.com/in/tasneem-amijee-5147a9a1/)
-- Linguistics: [Holly Taylor](https://www.linkedin.com/in/holly-taylor-988514211/)
 
 For general enquires, reach out to [education@wdss.io](mailto:education@wdss.io).
 
