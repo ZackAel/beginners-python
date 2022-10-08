@@ -106,20 +106,13 @@ You can find a list of answered FAQs [here](faqs).
 
 If you are taking this course through WDSS, your first port of call for any issues is your mentor. They will be able to handle the majority of issues and can elevate any particulary troublesome or important ones.
 
-If you are self-teaching, feel free to reach out to Tim Hargreaves (the content author) on [LinkedIn](https://www.linkedin.com/in/tim-hargreaves/) or Dodzia Daraz (the course coordinator) on [LinkedIn](https://www.linkedin.com/in/dominika-daraż-b13335162/)
+If you are self-teaching, feel free to reach out to Tim Hargreaves (the content author) on [LinkedIn](https://www.linkedin.com/in/tim-hargreaves/) or Osandi Payagala (the course coordinator) on [LinkedIn](https://uk.linkedin.com/in/osandi-payagala-171310223)
 
 ## Contact
 
 This course was written and initially taught by [Tim Hargreaves](https://www.linkedin.com/in/tim-hargreaves/). 
 
-The current course coordinator is [Dodzia Daraz](https://www.linkedin.com/in/dominika-daraż-b13335162/). 
-
-Our current subject ambassadors are:
-- Biochemistry: [Omar Abdul-Aziz]()
-- Finance/Economics: [Szymon Litwin](https://www.linkedin.com/in/szymon-litwin-38a9021bb/)
-- Mathematics/Statisics: [Amr Abdelmotteleb](https://www.linkedin.com/in/amr-abdelmotteleb-3574691ba/)
-- Physics/Engineering: [Aidan Mullins](https://www.linkedin.com/in/aidan-mullins-42650a1a3/?originalSubdomain=uk)
-- Politics/Social Sciences: [Tasneem Amijee](https://www.linkedin.com/in/tasneem-amijee-5147a9a1/)
+The current course coordinator is [Osandi Payagala](https://uk.linkedin.com/in/osandi-payagala-171310223). 
 
 For general enquires, reach out to [education@wdss.io](mailto:education@wdss.io).
 
